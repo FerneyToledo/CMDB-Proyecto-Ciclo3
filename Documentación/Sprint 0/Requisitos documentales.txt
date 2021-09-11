@@ -1,0 +1,6 @@
+1. Sprint 0: Entrega en última clase semana 2
+i. Product Backlook priorizado
+ii. Repositorio (GitHub) donde integrarán el trabajo
+iii. Gestión de configuración.
+iv. Historias de usuario a desarrollar en el Sprint 1.
+v. DevOps (Scrumboard y tareas).
